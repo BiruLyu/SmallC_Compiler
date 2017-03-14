@@ -1,0 +1,10 @@
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\bin\Debug\Compiler.exe
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\bin\Debug\Compiler.pdb
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\编译原理实践.Form1.resources
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\Compiler.Properties.Resources.resources
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\编译原理实践.Read.resources
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\Compiler.exe
+C:\Users\RubyLyu\Documents\Visual Studio 2010\Projects\SmallC_Compiler\SmallC_Compiler\obj\x86\Debug\Compiler.pdb
